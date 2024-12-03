@@ -1,6 +1,6 @@
-# Projeto Clonando a Página do Youtube com CSS
+# Projeto Listagem do Youtube com CSS
 
-Este repositório contém o projeto "Listagem de vídeos no YouTube com CSS", ele apresenta a página do Youtube onde aparce a lista de vídeos para assitir. A página foi desenvolvida utilizando HTML e CSS para mostrar o uso do grid l.
+Este repositório contém o projeto "Listagem de vídeos no YouTube com CSS", ele apresenta a página do Youtube onde aparce a lista de vídeos para assitir. A página foi desenvolvida utilizando HTML e CSS para mostrar o uso do grid layout.
 
 ## Visão Geral
 
@@ -21,14 +21,14 @@ Para visualizar o portfólio localmente, siga as etapas abaixo:
 
 2. Navegue até o diretório do projeto:
     ```bash
-    cd clonando-pagina-youtube-html-css
+    cd listagem-youtube-com-grid-html-css
 
 3. Abra o arquivo index.html no seu navegador preferido.
 
 ## Estrutura do Projeto
 
 ```plaintext
-clonando-pagina-youtube-html-css/
+listagem-youtube-com-grid-html-css/
 ├── assets/
 │    └── css/
 │         └── reset.css
