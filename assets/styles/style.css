@@ -102,9 +102,6 @@ main {
     padding: 16px;
 }
 
-.video-card img {
-}
-
 .video-info {
     display: grid;
     grid-template-columns: 42px 200px;
