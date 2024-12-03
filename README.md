@@ -1,6 +1,6 @@
 # Projeto Clonando a Página do Youtube com CSS
 
-Este é o repositório que contém o projeto "Listagem de vídeos no YouTube com CSS", onde apresenta a página do Youtube onde aparce a lsita de vídeos para assitir. A página foi desenvolvida utilizando HTML e CSS para mostrar o uso do flexbox.
+Este repositório contém o projeto "Listagem de vídeos no YouTube com CSS", ele apresenta a página do Youtube onde aparce a lista de vídeos para assitir. A página foi desenvolvida utilizando HTML e CSS para mostrar o uso do grid l.
 
 ## Visão Geral
 
@@ -17,7 +17,7 @@ Para visualizar o portfólio localmente, siga as etapas abaixo:
 
 1. Clone o repositório para o seu computador:
    ```bash
-   git clone https://github.com/SusananRibeiro/listagem-youtube-com-grid-html-css
+   git clone https://github.com/SusananRibeiro/listagem-youtube-com-grid-html-css.git
 
 2. Navegue até o diretório do projeto:
     ```bash
@@ -31,7 +31,7 @@ Para visualizar o portfólio localmente, siga as etapas abaixo:
 clonando-pagina-youtube-html-css/
 ├── assets/
 │    └── css/
-│         └── global.css
+│         └── reset.css
 │         └── styles.css
 │    └── img/
 │         └── [imagens utilizadas na página]
